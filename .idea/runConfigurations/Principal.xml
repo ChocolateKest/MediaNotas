@@ -1,0 +1,9 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Principal" type="Application" factoryName="Application" editBeforeRun="true" activateToolWindowBeforeRun="false">
+    <option name="MAIN_CLASS_NAME" value="principal.Principal" />
+    <module name="Mediana" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
